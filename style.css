@@ -7,10 +7,10 @@ body {
 
 #board {
     display: grid;
-    grid-template-columns: repeat(3, 100px);
-    gap: 5px;
+    grid-template-columns: repeat(3, 200px);
+    gap: 10px;
     justify-content: center;
-    margin: 20px;
+    margin: 40px;
 }
 
 .cell {
